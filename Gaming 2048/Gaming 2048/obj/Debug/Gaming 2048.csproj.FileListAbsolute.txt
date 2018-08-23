@@ -1,0 +1,10 @@
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\bin\Debug\Gaming 2048.exe
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\bin\Debug\Gaming 2048.exe.config
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\obj\Debug\Gaming 2048.csprojResolveAssemblyReference.cache
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\obj\Debug\Gaming_2048.Properties.Resources.resources
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\obj\Debug\Gaming 2048.csproj.GenerateResource.Cache
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\obj\Debug\Gaming 2048.csproj.CoreCompileInputs.cache
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\obj\Debug\Gaming 2048.exe
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\obj\Debug\Gaming 2048.pdb
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\bin\Debug\Gaming 2048.pdb
+C:\Users\Onion\source\repos\Gaming 2048\Gaming 2048\obj\Debug\Gaming_2048.Form1.resources
