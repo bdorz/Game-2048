@@ -19,6 +19,9 @@ namespace Gaming_2048
 
     public partial class Form1 : Form
     {        
+    
+    
+    
         int BlankState = -1;                                            //沒有圖片的狀態顯示   
         int[,] BlockNumber = new int[4, 4];                             //方塊資訊
         PictureBox[,] GamePictureArray = new PictureBox[4, 4];
